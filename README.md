@@ -1,126 +1,89 @@
 # 👋 Hi, I'm Abigail
 
+⚙️ Embedded Systems • IoT • Data • Machine Learning  
 🎓 MSc Internet of Things and Future Networks Graduate  
 🔧 Former Biomedical Engineer  
-⚙️ Embedded Systems • IoT • Data • Machine Learning  
 
 ---
 
-## 🚀 What I Do
+## 🚀 Building Real-World Intelligent Systems
 
-I design and build **end-to-end intelligent systems**, combining:
+I design and develop **end-to-end systems** — from hardware to data to intelligent models.
 
+My work combines:
 - ⚙️ Embedded systems (low-level programming & hardware control)  
 - 📡 IoT systems (connected devices & real-time monitoring)  
-- 📊 Data pipelines (real-world sensor data processing)  
-- 🤖 Machine learning (calibration & prediction models)  
+- 📊 Data engineering (sensor data processing & pipelines)  
+- 🤖 Machine learning (calibration & predictive modelling)  
 
 ---
 
 ## 🌟 Featured Projects
 
-### ⚙️ Embedded Systems Development (Lab Projects)
-**Low-level programming and hardware interaction**
-
-- Developed embedded software using C for microcontroller-based systems  
-- Implemented hardware interfacing and system-level logic  
-- Worked with timing, control, and device-level operations  
-
-👉 https://github.com/EECS-Embedded-Systems-2425/lab8-Abisco96
-
-👉 https://github.com/EECS-Embedded-Systems-2425/lab-7-Abisco96
-
-👉 https://github.com/EECS-Embedded-Systems-2425/lab6-Abisco96
-
-👉 https://github.com/EECS-Embedded-Systems-2425/lab5-Abisco96
-
-👉 https://github.com/EECS-Embedded-Systems-2425/lab4-Abisco96
-
-👉 https://github.com/EECS-Embedded-Systems-2425/lab3-Abisco96
-
-👉 https://github.com/EECS-Embedded-Systems-2425/lab2-Abisco96
+### ⚙️ Embedded Systems Development  
+Low-level C programming for microcontroller-based systems  
+👉 https://github.com/EECS-Embedded-Systems-2425/lab8-Abisco96  
 
 ---
 
-### 🌍 Real-Time IoT Air Quality Monitoring System  
-**End-to-end system (hardware → cloud → dashboard)**  
-
-- Built using Arduino UNO R4 + Blynk  
-- Real-time monitoring of environmental pollutants  
-- Multi-sensor integration (PM2.5, NO₂, CO, O₃)  
-
-👉 https://github.com/Abisco96/Real-Time-IoT-Air-Quality-Monitoring-System-Arduino-UNO-R4-Blynk-
+### 🌍 IoT Air Quality Monitoring System  
+Real-time environmental monitoring using Arduino UNO R4 + Blynk  
+👉 https://github.com/Abisco96/Real-Time-IoT-Air-Quality-Monitoring-System-Arduino-UNO-R4-Blynk-  
 
 ---
 
-### 📊 Air Quality Sensor Calibration (MSc Project)  
-**Improving low-cost sensor accuracy using machine learning**  
-
-- Processed high-frequency time-series data  
-- Built regression models (Linear, Polynomial, Random Forest)  
-- Achieved strong calibration performance (R² up to 0.72)  
-
-👉 https://github.com/Abisco96/Low-Cost-Air-Quality-Sensor-to-Improve-their-Data-Quality
+### 📊 Sensor Calibration (Machine Learning)  
+Improving low-cost air quality sensors using regression models  
+👉 https://github.com/Abisco96/Low-Cost-Air-Quality-Sensor-to-Improve-their-Data-Quality  
 
 ---
 
-### 🤖 NO₂ Prediction in London  
-**Machine learning model for air pollution forecasting**  
-
-- Analysed real-world London air quality dataset  
-- Built predictive models for NO₂ concentration  
-- Applied regression and feature engineering  
-
+### 🤖 NO₂ Prediction (London Air Quality)  
+Machine learning model for pollution forecasting  
 👉 https://github.com/Abisco96/Prediction-of-Nitrogen-Dioxide-Levels-in-London  
 
 ---
 
 ### 💰 Finance Tracker Application  
-**User-focused financial management system**  
-
-- Tracks income, expenses, and spending behaviour  
-- Demonstrates application design and data handling  
-
+User-focused software for managing personal finances  
 👉 https://github.com/Abisco96/ECS781PFinanceTracker  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
+**Languages:**  
 Python • C • C++ • JavaScript  
 
-**Embedded Systems**  
-Microcontrollers • Low-level C • Hardware interfacing • Real-time systems  
+**Embedded Systems:**  
+Microcontrollers • Hardware interfacing • Real-time systems  
 
-**IoT & Systems**  
-Arduino • ESP8266 • Sensor integration • Cloud connectivity  
+**IoT Systems:**  
+Arduino • ESP8266 • Sensor integration • Cloud platforms  
 
-**Data & Machine Learning**  
-Pandas • NumPy • Scikit-learn • Time-Series Analysis  
+**Data & ML:**  
+Pandas • NumPy • Scikit-learn • Time-series analysis  
 
-**Tools**  
-Git • Linux • Jupyter Notebook  
+**Tools:**  
+Git • Linux • Jupyter  
 
 ---
 
-## 💡 What Makes Me Different
+## 💡 What Sets Me Apart
 
-Most graduates focus on:
+Most engineers specialise in:
 - software  
 OR  
 - data  
 
-👉 I combine **embedded systems + IoT + machine learning**
-
-This means I can:
-- Build systems from **hardware to prediction**
-- Work with **real-world sensor data**
-- Deliver **complete engineering solutions**
+👉 I build **complete systems**:
+- From physical sensors  
+- To data pipelines  
+- To intelligent models  
 
 ---
 
-## 🎯 Career Interests
+## 🎯 Career Focus
 
 - Embedded Systems Engineering  
 - IoT / Firmware Development  
@@ -138,10 +101,10 @@ This means I can:
 
 ## ⭐ Final Note
 
-I’m passionate about solving real-world problems using technology — especially in:
+I’m passionate about using technology to solve real-world problems in:
 
-- 🌍 Environmental monitoring  
-- 🏥 Healthcare systems  
-- 🏙️ Smart infrastructure  
+🌍 Environmental monitoring  
+🏥 Healthcare systems  
+🏙️ Smart infrastructure  
 
-🚀 Currently seeking opportunities to build impactful systems and grow as an engineer.
+🚀 Open to graduate opportunities where I can build impactful systems.
