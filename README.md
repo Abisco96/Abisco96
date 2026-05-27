@@ -12,7 +12,7 @@
 - ESP8266 + sensors + Blynk cloud  
 - Real-time monitoring & alerts  
 
-👉 [View Project](link)
+👉 [View Project](https://github.com/EECS-Embedded-Systems-2425/lab6-Abisco96.git)
 
 ---
 
