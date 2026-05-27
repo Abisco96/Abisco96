@@ -12,7 +12,7 @@
 - ESP8266 + sensors + Blynk cloud  
 - Real-time monitoring & alerts  
 
-👉 [View Project](https://github.com/EECS-Embedded-Systems-2425/lab6-Abisco96.git)
+👉 https://github.com/Abisco96/IoT-Arduino-UNO-R4-Air-Quality-Meter-Using-Blynk.git
 
 ---
 
@@ -20,7 +20,12 @@
 - Firmware development in C  
 - Microcontroller programming  
 
-👉 [View Project](link)
+👉 https://github.com/EECS-Embedded-Systems-2425/lab6-Abisco96.git
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab5-Abisco96.git
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab2-Abisco96.git
+
 
 ---
 
