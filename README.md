@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Abigail 👋
 
-<!--
-**Abisco96/Abisco96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Internet of Things Graduate  
+🔧 Biomedical Engineering Background  
+💡 Interested in Embedded Systems, IoT & Software Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🌍 IoT Air Quality Monitoring System
+- ESP8266 + sensors + Blynk cloud  
+- Real-time monitoring & alerts  
+
+👉 [View Project](link)
+
+---
+
+### ⚙️ Embedded Systems Project
+- Firmware development in C  
+- Microcontroller programming  
+
+👉 [View Project](link)
+
+---
+
+## 🛠 Tech Stack
+Python | C | C++ | Arduino | ESP8266 | Linux  
+
+---
+
+## 📫 Contact
+LinkedIn:(https://www.linkedin.com/in/abigail-frimpong/)
