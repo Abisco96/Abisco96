@@ -19,7 +19,7 @@ I design and build **end-to-end intelligent systems**, combining:
 
 ## 🌟 Featured Projects
 
-### ⚙️ Embedded Systems Development (Lab Project)
+### ⚙️ Embedded Systems Development (Lab Projects)
 **Low-level programming and hardware interaction**
 
 - Developed embedded software using C for microcontroller-based systems  
@@ -27,6 +27,18 @@ I design and build **end-to-end intelligent systems**, combining:
 - Worked with timing, control, and device-level operations  
 
 👉 https://github.com/EECS-Embedded-Systems-2425/lab8-Abisco96
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab-7-Abisco96
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab6-Abisco96
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab5-Abisco96
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab4-Abisco96
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab3-Abisco96
+
+👉 https://github.com/EECS-Embedded-Systems-2425/lab2-Abisco96
 
 ---
 
