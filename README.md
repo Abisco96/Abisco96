@@ -1,8 +1,8 @@
 # Hi, I'm Abigail 👋
 
-🎓 MSc Internet of Things Graduate  
+🎓 MSc Internet of Things and Future Networks Graduate  
 🔧 Biomedical Engineering Background  
-💡 Interested in Embedded Systems, IoT & Software Engineering  
+💡 Interested in IoT, Software Engineering & Embedded Systems  
 
 ---
 
