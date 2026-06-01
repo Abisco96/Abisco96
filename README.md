@@ -20,12 +20,6 @@ My work combines:
 
 ## 🌟 Featured Projects
 
-### ⚙️ Embedded Systems Development  
-Low-level C programming for microcontroller-based systems  
-👉 https://github.com/EECS-Embedded-Systems-2425/lab8-Abisco96  
-
----
-
 ### 🌍 IoT Air Quality Monitoring System  
 Real-time environmental monitoring using Arduino UNO R4 + Blynk  
 👉 https://github.com/Abisco96/Real-Time-IoT-Air-Quality-Monitoring-System-Arduino-UNO-R4-Blynk-  
@@ -47,6 +41,11 @@ Machine learning model for pollution forecasting
 ### 💰 Finance Tracker Application  
 User-focused software for managing personal finances  
 👉 https://github.com/Abisco96/ECS781PFinanceTracker  
+
+---
+### ⚙️ Embedded Systems Development  
+Low-level C programming for microcontroller-based systems  
+👉 https://github.com/EECS-Embedded-Systems-2425/lab8-Abisco96  
 
 ---
 
